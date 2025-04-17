@@ -9,3 +9,4 @@ lancedb
 tantivy
 yfinance
 dotenv
+git+https://github.com/altryne/agno.git
